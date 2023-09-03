@@ -1,0 +1,14 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    
+    background-color: #131313;
+    opacity: 0.8;
+    background: repeating-linear-gradient( 45deg, #000000, #000000 5px, #131313 5px, #131313 25px );
+}
